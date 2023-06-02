@@ -81,11 +81,26 @@ A collection of library for Arduino - Proteus Simulation
 _For LIBRARY and MCAD folder by default at C:\ProgramData\Labcenter Electronics\Proteus 8 Professional_
 
 ***
-#### Main Source:
+### Want to help?
+If you have library of the component that you want to add, you're warmly welcome to contribute. Just by follow simple step below:
+
+
+1. Fork the Repository
+2. Add your new libary
+3. Issue a Pull request
+_Better if the library already package as 'Name_Component-V1-S0'_
+
+V _X_ : Version of files/component
+S _X_ : Sourse of files (S1 as link below, S0 from other place in the intenet)
+
+I will update as soon as possible. Any contribution is welcome as many sensor is not available in Proteus
+
+***
+#### Credits & Main Source:
 * https://www.theengineeringprojects.com/
 * https://github.com/Kalebu/Proteus-arduino-libraries
 * https://github.com/tecsantoshkumar/Proteus_Library
 * https://github.com/tueuer/PROTEUS-LIBRARY
 
-_Disclaimer: I am not author of the files. I just collect files across internet and put here at one place. Many sites are scam and plain lying so it make harder to find correct files._
+_Disclaimer: I am not author of the files. I just collect files across internet and put here at one place. Many sites are scam and plain lying so it make harder to find correct files. Any watermark is not removed only filename is change to follow name-scheme_
 
