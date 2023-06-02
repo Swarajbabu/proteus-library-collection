@@ -70,6 +70,15 @@ A collection of library for Arduino - Proteus Simulation
 * XBee
 
 ***
+## How To Install
+1. Unzip files
+2. Copy and Paste Files with extension .IDX .LIB .HEX to LIBRARY folder in Proteus
+3. Copy and Paste Files with extension .STP ti MCAD folder in Proteus 
+4. Restart Proteus
+
+_For LIBRARY and MCAD folder by default at C:\ProgramData\Labcenter Electronics\Proteus 8 Professional_
+
+***
 #### Main Source:
 * https://www.theengineeringprojects.com/
 * https://github.com/Kalebu/Proteus-arduino-libraries
