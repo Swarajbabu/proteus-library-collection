@@ -30,7 +30,7 @@ A collection of library for Arduino - Proteus
 * OctoCoupler
 * Solar Panel
 
-##
+## Sensor
 * Analog Flex Sensor
 * Analog Vibration Sensor
 * Capacitive Touch Sensor
