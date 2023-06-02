@@ -1,5 +1,5 @@
 # Proteus library collection
-A collection of library for Arduino - Proteus
+A collection of library for Arduino - Proteus Simulation
 
 ***
 ### Board
