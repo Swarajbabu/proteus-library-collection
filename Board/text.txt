@@ -1,0 +1,1 @@
+Board for proteus (ESP8266 CANNOT be simulate)
