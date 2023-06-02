@@ -36,7 +36,7 @@ A collection of library for Arduino - Proteus
 * Solar Panel
 
 ***
-## Sensor
+### Sensor
 * Analog Flex Sensor
 * Analog Vibration Sensor
 * Capacitive Touch Sensor
