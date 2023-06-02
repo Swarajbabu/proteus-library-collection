@@ -40,6 +40,7 @@ A collection of library for Arduino - Proteus Simulation
 * Analog Flex Sensor
 * Analog Vibration Sensor
 * Capacitive Touch Sensor
+* DHT Sensor
 * Flame Sensor
 * Flex Sensor
 * HeartBeat Sensor
@@ -58,6 +59,15 @@ A collection of library for Arduino - Proteus Simulation
 * Ultrasonic Sensor
 * Vibration Sensor
 * Water level Sensor
+
+***
+### Wireless
+* Bluetooth
+* GPS
+* GSM
+* NRF24L01
+* RF
+* XBee
 
 ***
 #### Main Source:
