@@ -54,11 +54,13 @@ A collection of library for Arduino - Proteus Simulation
 * Magnetic Reed Switch Sensor
 * PH Sensor
 * Passive IR (PIR) Sensor
+* Piezo Electric Sensor
 * Rain Sensor
 * Soil Moisture Sensor
 * Ultrasonic Sensor
 * Vibration Sensor
-* Water level Sensor
+* Water Level Sensor
+* Water Flow Sensor (Project)
 
 ***
 ### Wireless
