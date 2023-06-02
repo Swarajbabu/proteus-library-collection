@@ -1,6 +1,7 @@
 # Proteus library collection
 A collection of library for Arduino - Proteus
 
+***
 ### Board
 * Collection Arduino Board
 * Arduino UNO
@@ -13,15 +14,19 @@ A collection of library for Arduino - Proteus
 * Arduino Lilypad
 * NodeMCU ESP8266 (No Simulation)
 
+***
 ### Component
 * C945 Transistor
 
+***
 ### Module
 * DS1307 RTC Module
 
+***
 ### Output
 * LCD Display (16X2, 20X4)
 
+***
 ### Power
 * CR2032 Batteries 
 * L298 Motor Driver
@@ -30,6 +35,7 @@ A collection of library for Arduino - Proteus
 * OctoCoupler
 * Solar Panel
 
+***
 ## Sensor
 * Analog Flex Sensor
 * Analog Vibration Sensor
@@ -53,7 +59,7 @@ A collection of library for Arduino - Proteus
 * Vibration Sensor
 * Water level Sensor
 
-
+***
 #### Main Source:
 * https://www.theengineeringprojects.com/
 * https://github.com/Kalebu/Proteus-arduino-libraries
