@@ -100,12 +100,16 @@ I will update as soon as possible. Any contribution is welcome as many sensor is
 
 ### Analog input stuck at 1023
 - Sometimes analog input stuck at 1023 when using LDR or Resistor.
-- <figure><img src="Pic/Hidden_pin.png"><figcaption>Enable hidden pin on Arduino</figcaption></figure>
-- <figure><img src="Pic/Analog_input_problem.png"><figcaption>Ensure VCC(Arduino) and +5V, GND(Arduino) and GND(Normal)is connected together</figcaption></figure>
+- <figure><img src="Pic/Hidden_pin.png"><figcaption></figcaption></figure>
+- Enable hidden pin on Arduino
+- <figure><img src="Pic/Analog_input_problem.png"><figcaption></figcaption></figure>
+- Ensure VCC(Arduino) and +5V, GND(Arduino) and GND(Normal)is connected together
 
 ### Cannot find model file .MDF
-- <figure><img src="Pic/MDF_error.png"><figcaption>Example Error</figcaption></figure>
-- <figure><img src="Pic/Hirecy.png.png"><figcaption>Enable Attach hierarchy module on problem component</figcaption></figure>
+- <figure><img src="Pic/MDF_error.png"><figcaption></figcaption></figure>
+- Example Error
+- <figure><img src="Pic/Hirecy.png.png"><figcaption></figcaption></figure>
+- Enable Attach hierarchy module on problem component
 
 
 ***
