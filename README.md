@@ -100,7 +100,7 @@ I will update as soon as possible. Any contribution is welcome as many sensor is
 
 * Analog input stuck at 1023
 - Sometimes analog input stuck at 1023 when using LDR or Resistor.
-  [[pic/Analog_input_problem.png]]
+- <figure><img src="Pic/Analog_input_problem.png"><figcaption>image caption</figcaption></figure>
 - 
 
 ***
