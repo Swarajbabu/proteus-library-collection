@@ -96,6 +96,14 @@ S _X_ : Sourse of files (S1 as link below, S0 from other place in the intenet)
 I will update as soon as possible. Any contribution is welcome as many sensor is not available in Proteus
 
 ***
+## Some Bug and Fixed
+
+* Analog input stuck at 1023
+- Sometimes analog input stuck at 1023 when using LDR or Resistor.
+  [[pic/Analog_input_problem.png]]
+- 
+
+***
 #### Credits & Main Source:
 * https://www.theengineeringprojects.com/
 * https://github.com/Kalebu/Proteus-arduino-libraries
