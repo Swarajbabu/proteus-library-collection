@@ -108,7 +108,7 @@ I will update as soon as possible. Any contribution is welcome as many sensor is
 ### Cannot find model file .MDF
 - <figure><img src="Pic/MDF_error.png"><figcaption></figcaption></figure>
 - Example Error
-- <figure><img src="Pic/Hirecy.png.png"><figcaption></figcaption></figure>
+- <figure><img src="Pic/Hirecy.png"><figcaption></figcaption></figure>
 - Enable Attach hierarchy module on problem component
 
 
